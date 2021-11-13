@@ -1,0 +1,16 @@
+E:\work\dotnet2\bin\Debug\net5.0\dotnet2.exe
+E:\work\dotnet2\bin\Debug\net5.0\dotnet2.deps.json
+E:\work\dotnet2\bin\Debug\net5.0\dotnet2.runtimeconfig.json
+E:\work\dotnet2\bin\Debug\net5.0\dotnet2.runtimeconfig.dev.json
+E:\work\dotnet2\bin\Debug\net5.0\dotnet2.dll
+E:\work\dotnet2\bin\Debug\net5.0\ref\dotnet2.dll
+E:\work\dotnet2\bin\Debug\net5.0\dotnet2.pdb
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.csproj.AssemblyReference.cache
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.AssemblyInfoInputs.cache
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.AssemblyInfo.cs
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.csproj.CoreCompileInputs.cache
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.dll
+E:\work\dotnet2\obj\Debug\net5.0\ref\dotnet2.dll
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.pdb
+E:\work\dotnet2\obj\Debug\net5.0\dotnet2.genruntimeconfig.cache
